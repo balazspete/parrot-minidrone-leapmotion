@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "rolling-spider": "latest",
+    "cylon": "latest",
+    "cylon-leapmotion": "latest",
+    "noble": "latest"
+  }
+}
